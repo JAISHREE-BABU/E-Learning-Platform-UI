@@ -1,18 +1,4 @@
-# E-Learning-Platform-UI
-
-COMPANY: CODTECH IT SOLUTIONS
-
-NAME: JAISHREE P B
-
-INTERN ID: CT08NUR
-
-DOMAIN: FRONT END DEVELOPMENT
-
-DURATION: 4 WEEKS
-
-MENTOR: NEELA SANTOSH
-
-### E-LEARNING PLATFORM UI - INTERSHIP TASK
+# E-LEARNING PLATFORM UI
 
 This is a simple E-Learning Platform UI built using HTML, CSS, and JavaScript. It provides an interactive interface where users can explore and start learning web development fundamentals, including HTML, CSS, and JavaScript.
 
